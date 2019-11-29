@@ -10,4 +10,4 @@ In this folder, you will find code for:
 - [Figures](/2019_jxe_odds_ratio/figures_code.R)
 - Supplementary `.rds` files that contain analyses and simulation results needed to produce Figures unless one re-runs the simulations or re-performs the analysis
 
-Blog post with non-paywalled version: https://jamesuanhoro.com/post/2019/11/25/problems-with-using-odds-ratios-as-effect-sizes-in-binary-logistic-regression-and-alternative-approaches/
+Blog post with non-pay-walled version of paper: https://jamesuanhoro.com/post/2019/11/25/problems-with-using-odds-ratios-as-effect-sizes-in-binary-logistic-regression-and-alternative-approaches/
